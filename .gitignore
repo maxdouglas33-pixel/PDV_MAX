@@ -1,0 +1,17 @@
+# Sistema
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup comuns
+*.bak
+*.old
