@@ -30,7 +30,6 @@ Centralizar:
 
 ## Próximos passos sugeridos
 
-- criar o repositório no GitHub;
-- configurar `origin`;
 - publicar a primeira release `v0.1.0`;
-- padronizar mudanças via `CHANGELOG.md`.
+- padronizar mudanças via `CHANGELOG.md`;
+- manter documentação e scripts sempre versionados juntos.
